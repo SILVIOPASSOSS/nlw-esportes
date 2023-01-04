@@ -42,6 +42,7 @@ $ npm run dev
 ```
 
 **Web**
+
 Para abrir o Cliente Vite localmente
 
 ```
