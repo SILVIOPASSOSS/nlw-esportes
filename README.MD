@@ -6,11 +6,11 @@ O projeto se chama _Encontre seu duo_. Uma plataforma para você encontrar um co
 
 ### Segue algumas imagens do resultado :)
 
-| <img src="/img-repository/page-home.png" width="300" height="300" /> | <img src="/img-repository/app-home.jpeg" width="300" height="400" /> |
+<img src="/img-repository/page-home.png" width="400" height="400" /> <img src="/img-repository/app-home.jpeg" width="300" height="400" />
 
 ---
 
-|<img src="/img-repository/page-registerAd.png" width="300" height="300" /> |<img src="/img-repository/app-connect.jpeg" width="300" height="400" />|
+<img src="/img-repository/page-registerAd.png" width="400" height="400" /> <img src="/img-repository/app-connect.jpeg" width="300" height="400" />
 
 ## Ferramentas e Stacks
 
