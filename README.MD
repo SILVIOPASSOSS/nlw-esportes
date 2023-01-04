@@ -1,17 +1,16 @@
 # NLW E-Sports.
 
-
 ## Descrição
 
 O projeto se chama _Encontre seu duo_. Uma plataforma para você encontrar um companheiro para vocês jogarem juntos, aquela gameplay animada :)
 
 ### Segue algumas imagens do resultado :)
 
-![Página Home](/img-repository/page-home.png)
-![](/img-repository/app-home.jpeg)
+<img src="/img-repository/page-home.png" width="200" height="200" />
+<img src="/img-repository/app-home.jpeg" width="200" height="200" />
 
-![Página de Registro](/img-repository/page-registerAd.png)
-![Página de Registro](/img-repository/app-connect.jpeg)
+<img src="/img-repository/page-registerAd.png" width="200" height="200" />
+<img src="/img-repository/app-connect.jpeg" width="200" height="200" />
 
 ## Ferramentas e Stacks
 
